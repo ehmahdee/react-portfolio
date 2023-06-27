@@ -1,0 +1,67 @@
+.text-animate {
+    display: inline-block;
+    opacity: 0;
+    animation: bounceIn;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-fill-mode: forwards;
+    min-width: 10px;
+  }
+  
+  .text-animate-hover {
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+  
+    &:hover {
+      animation: chameleon 1s;
+      color: #ffd700;
+      animation-iteration-count: infinite;
+    }
+  }
+  
+  @for $i from 1 through 35 {
+    .text-animate._#{$i} {
+      animation-delay: #{$i / 10}s;
+    }
+  }
+
+  @keyframes chameleon {
+    0% {
+      color: red;
+    }
+  
+    14.2999% {
+      color: orange;
+    }
+  
+    28.5999% {
+      color: yellow;
+    }
+  
+    42.8998% {
+      color: green;
+    }
+  
+    57.1996% {
+      color: blue;
+    }
+  
+    71.4995% {
+      color: indigo;
+    }
+  
+    85.7994% {
+      color: violet;
+    }
+    100% {
+      color: red;
+    }
+  }
+  
+  .chameleon {
+    animation-name: chameleon;
+    animation-duration: 5s;
+  }
+
+  
