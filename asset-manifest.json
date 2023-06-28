@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ehmahdee/react-portfolio/static/css/main.69273569.css",
-    "main.js": "/ehmahdee/react-portfolio/static/js/main.1feef69a.js",
-    "static/js/787.a2cb61a6.chunk.js": "/ehmahdee/react-portfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/shareit.png": "/ehmahdee/react-portfolio/static/media/shareit.89f3630cd8cdd4e457fd.png",
-    "static/media/emmadailyheadshotedited.png": "/ehmahdee/react-portfolio/static/media/emmadailyheadshotedited.7178c7f995dd9812ce22.png",
-    "static/media/cantdecide.png": "/ehmahdee/react-portfolio/static/media/cantdecide.6e91615e47ad6a1d02f7.png",
-    "static/media/waterbattle.png": "/ehmahdee/react-portfolio/static/media/waterbattle.9597f6af0feb4c6c176f.png",
-    "static/media/weatherapi.png": "/ehmahdee/react-portfolio/static/media/weatherapi.93091e4f0c9f7ba22b2f.png",
-    "static/media/mellsmoss.png": "/ehmahdee/react-portfolio/static/media/mellsmoss.bb8825016e08db14ded4.png",
-    "static/media/dailyorganizer.png": "/ehmahdee/react-portfolio/static/media/dailyorganizer.d22ea7bc3bd868d8f682.png",
-    "static/media/helvetica-neu.ttf": "/ehmahdee/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/ehmahdee/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/ehmahdee/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/ehmahdee/react-portfolio/index.html",
-    "main.69273569.css.map": "/ehmahdee/react-portfolio/static/css/main.69273569.css.map",
-    "main.1feef69a.js.map": "/ehmahdee/react-portfolio/static/js/main.1feef69a.js.map",
-    "787.a2cb61a6.chunk.js.map": "/ehmahdee/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/react-portfolio/static/css/main.8f9d9c0b.css",
+    "main.js": "/react-portfolio/static/js/main.90a28794.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/shareit.png": "/react-portfolio/static/media/shareit.89f3630cd8cdd4e457fd.png",
+    "static/media/emmadailyheadshotedited.png": "/react-portfolio/static/media/emmadailyheadshotedited.7178c7f995dd9812ce22.png",
+    "static/media/cantdecide.png": "/react-portfolio/static/media/cantdecide.6e91615e47ad6a1d02f7.png",
+    "static/media/waterbattle.png": "/react-portfolio/static/media/waterbattle.9597f6af0feb4c6c176f.png",
+    "static/media/weatherapi.png": "/react-portfolio/static/media/weatherapi.93091e4f0c9f7ba22b2f.png",
+    "static/media/mellsmoss.png": "/react-portfolio/static/media/mellsmoss.bb8825016e08db14ded4.png",
+    "static/media/dailyorganizer.png": "/react-portfolio/static/media/dailyorganizer.d22ea7bc3bd868d8f682.png",
+    "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/react-portfolio/index.html",
+    "main.8f9d9c0b.css.map": "/react-portfolio/static/css/main.8f9d9c0b.css.map",
+    "main.90a28794.js.map": "/react-portfolio/static/js/main.90a28794.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69273569.css",
-    "static/js/main.1feef69a.js"
+    "static/css/main.8f9d9c0b.css",
+    "static/js/main.90a28794.js"
   ]
 }
