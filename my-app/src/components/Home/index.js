@@ -2,8 +2,6 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
-// import LogoTitle from '../../assets/images/logo-s.png'
-// import Logo from './Logo'
 import Headshot from '../../assets/images/emmadailyheadshotedited.png'
 import './index.scss'
 
@@ -48,10 +46,6 @@ const Home = () => {
             <br />
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
-            {/* <img
-              src={LogoTitle}
-              alt="JavaScript Developer Name, Web Developer Name"
-            /> */}
             <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}
@@ -75,7 +69,6 @@ const Home = () => {
         <div>
           <img className='headshot' src={Headshot} alt='Headshot' />
         </div>
-        {/* <Logo />  */}
       </div>
 
       <Loader type="ball-scale-ripple-multiple"/>
