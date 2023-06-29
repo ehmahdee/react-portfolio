@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "homepage": "https://ehmahdee.github.io/",
-  "private": true,
+  "private": "true",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/free-brands-svg-icons": "^6.4.0",
